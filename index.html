@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <title>Focus Room</title>
+    <link rel="stylesheet" href="css/dark-mode.css" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="css/light-mode.css" media="(prefers-color-scheme: light)">
+</head>
+<body>
+    <div class="container">
+        <div class="music-button">
+            <button id="musicButton">
+                <i class="fas fa-volume-up"></i>
+            </button>
+        </div>        
+        <div class="translation-button">
+            <button id="translateButton">
+                <i class="fas fa-language"></i>
+            </button>
+            <div class="language-options">
+                <button class="language-option" data-lang="en-US">English</button>
+                <button class="language-option" data-lang="ko-KR">한국어</button>
+                <button class="language-option" data-lang="es-ES">Español</button>
+                <button class="language-option" data-lang="fr-FR">Français</button>
+                <!-- Add more language options as needed -->
+            </div>
+        </div>       
+        <div class="clock">
+            <p id="clock"></p>
+        </div>
+        <div class="date">
+            <p id="date"></p>
+        </div>
+    </div>
+    <script src="javascript/script.js"></script>
+</body>
+</html>
