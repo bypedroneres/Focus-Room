@@ -35,7 +35,7 @@ We have plans to add more features to Focus Room in the future. Some of the plan
 ## Try it Out
 
 Visit Focus Room and enjoy a relaxing and focused environment:
-[Focus Room](#your-focus-room-url-here)
+https://bypedroneres.github.io/Focus-Room/
 
 ## Feedback and Contributions
 
