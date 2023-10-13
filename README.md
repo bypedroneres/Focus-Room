@@ -1,6 +1,4 @@
-<div class="image-container">
-  <img class="CoverImagee" src="assets/homepage.png" alt="Cover">
-</div>
+![Light Mode](./assets/home-dark.png)
 
 # Focus Room - Relax and Study with Lo-fi Music
 
@@ -41,8 +39,8 @@ Visit Focus Room and enjoy a relaxing and focused environment:
 
 ## Feedback and Contributions
 
-Feel free to share your feedback, bug reports, or suggestions by opening issues in the project's GitHub repository. If you're interested in contributing to the project, please follow our [contributing guidelines](#link-to-contributing-guidelines).
+Feel free to share your feedback, bug reports, or suggestions by opening issues in the project's GitHub repository.
 
 Thank you for choosing Focus Room to enhance your focus and relaxation!
 
-![Demo](#link-to-demo-gif-or-screenshot)
+![Light Mode](./assets/home-light.png)
